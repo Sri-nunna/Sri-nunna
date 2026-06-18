@@ -1,34 +1,5 @@
 # 💫 About Me:
 I am a motivated Computer Science and Engineering student with a strong interest in Python programming, Machine Learning, and Frontend Development. I enjoy exploring emerging technologies and applying them to real-world problems.
-💻 Programming Languages
-Python
-C
-Java
-Frontend Development
-HTML5
-CSS3
-JavaScript
-⚙️ Backend Development
-FastAPI
-Uvicorn
-🗄️ Databases
-SQL
-MySQL
-🤖 AI / Machine Learning
-Machine Learning
-Data Analysis
-Scikit-learn
-Pandas
-NumPy
-Matplotlib
-Artificial Intelligence
-🛠️ Tools & Platforms
-Git
-GitHub
-VS Code
-PyCharm
-Google Colab
-Jupyter Notebook
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srilakshmi-nunna-0b3a62325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srilakshminunna2200@gmail.com) 
